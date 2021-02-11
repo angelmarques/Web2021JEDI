@@ -2,40 +2,53 @@
   "usuarios": [
     {
       "id": 1,
-      "num": 1,
       "nombre": "Pedro Sanchez",
       "correo": "pedroche@gmail.com"
+      "contraseña": "picapiedra"
+      "ciudad": "Villareal"
+      "codigo postal": 08020
+      
   
     },
     {
        "id": 2,
-      "num": 2,
-      "nombre": "Pablo Iglesias",
+     "nombre": "Pablo Iglesias",
       "correo": "pablomarmol@gmail.com"
+       "contraseña": "bety"
+      "ciudad": "caracas"
+      "codigo postal": 08021
     },
     {
        "id": 3,
-      "num": 3,
       "nombre": "Santiago Abascal",
       "correo": "lossantos@gmail.com"
+       "contraseña": "españa"
+      "ciudad": "Extremadura"
+      "codigo postal": 08022
     },
     {
        "id": 4,
-      "num": 4,
-      "nombre": "Wingarium Lebiosa",
+    "nombre": "Wingarium Lebiosa",
       "correo": "lebiosa@gmail.com"
+       "contraseña": "lebiosaa"
+      "ciudad": "Hogwarts"
+      "codigo postal": 08023
     },
     {
        "id": 5,
-      "num": 5,
       "nombre": "Nadia Alguien",
       "correo": "nadia@gmail.com"
+       "contraseña": "alguien"
+      "ciudad": "Sevilla"
+      "codigo postal": 08024
     },
     {
        "id": 6,
-      "num": 6,
       "nombre": "Quici Licuatre",
       "correo": "crusaito@gmail.com"
+       "contraseña": "elroboco"
+      "ciudad": "Vigo"
+      "codigo postal": 08025
     }
   ]
 }
