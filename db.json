@@ -6,7 +6,7 @@
       "correo": "pedroche@gmail.com",
       "contraseña": "picapiedra",
       "ciudad": "Villareal",
-      "zip": 08020
+      "zip": 8020
 
       
   
@@ -17,7 +17,7 @@
       "correo": "pablomarmol@gmail.com",
        "contraseña": "bety",
       "ciudad": "caracas",
-"zip": 08021
+"zip": 8021
       
     },
     {
@@ -26,7 +26,7 @@
       "correo": "lossantos@gmail.com",
        "contraseña": "españa",
       "ciudad": "Extremadura",
-"zip": 08022
+"zip": 8022
     },
     {
        "id": 4,
@@ -34,7 +34,7 @@
       "correo": "lebiosa@gmail.com",
        "contraseña": "lebiosaa",
       "ciudad": "Hogwarts",
-  "zip": 08023   
+  "zip":8023   
     },
     {
        "id": 5,
@@ -42,7 +42,7 @@
       "correo": "nadia@gmail.com",
        "contraseña": "alguien",
       "ciudad": "Sevilla",
- "zip": 08024
+ "zip": 8024
     },
     {
        "id": 6,
@@ -50,7 +50,7 @@
       "correo": "crusaito@gmail.com",
        "contraseña": "elroboco",
       "ciudad": "Vigo",
-"zip": 08025
+"zip": 8025
     }
   ]
 }
